@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "In the beginning …."
+title: "Finally.....My first post."
 modified: 2014-07-22 17:29:53 -0500
 tags: [orgin story]
 image:
