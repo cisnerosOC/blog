@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Finally.....My first post."
-modified: 2014-07-22 17:29:53 -0500
-tags: [orgin story]
+modified: 2014-07-23 12:23:00 -0500
+tags: 
 image:
   feature: 
   credit: 
@@ -10,3 +10,5 @@ image:
 comments: 
 share: 
 ---
+
+Finally
