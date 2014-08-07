@@ -1,5 +1,5 @@
-title:            Dreaming of Models.
-description:      Dreams of Models... Rails Models. Oscar Cisneros Jr developer blog.
+title:            My Journey. A blog by Oscar Cisneros Jr.  
+description:      A blog chronicling my journey as a developer.
 disqus_shortname: 
 reading_time:     false
 words_per_minute: 200
@@ -9,7 +9,7 @@ url:              http://www.oscarcisnerosjr.com
 owner:
   name:           Oscar Cisneros Jr
   avatar:         avatar.jpg
-  bio:            "Dreaming of Models.... Rails Models. A blog chronicling my journey as developer."
+  bio:            "A blog chronicling my journey as developer."
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
